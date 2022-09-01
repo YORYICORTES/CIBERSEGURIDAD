@@ -13,4 +13,9 @@ A diferencia de otros tipos de amenazas de Internet, el phishing no requiere con
 
 ## ALCANCES 
 
-ff
+permite tener el control  de la informació  os daños causados por el phishing oscilan entre la pérdida del acceso al correo electrónico a pérdidas económicas sustanciales. Este estilo de robo de identidad se está haciendo más popular por la facilidad con que personas confiadas normalmente revelan información personal a los phishers, incluyendo números de tarjetas de crédito y números de la seguridad social. Una vez esta información es adquirida, los phishers pueden usar datos personales para crear cuentas falsas en el nombre de la víctima, gastar el crédito de la víctima o incluso impedir a las víctimas acceder a sus propias cuentas.
+
+Se estima que entre mayo del 2004 y mayo del 2005, aproximadamente 1.2 millones de usuarios de computadoras en los Estados Unidos tuvieron pérdidas a causa del phishing, lo que suma a aproximadamente $929 millones de dólares estadounidenses.
+
+Los negocios en los Estados Unidos perdieron cerca de 2000 millones de dólares al año mientras sus clientes eran víctimas. El Reino Unido también sufrió el alto incremento en la práctica del phishing. En marzo del 2005, la cantidad de dinero que perdió el Reino Unido era de aproximadamente £12 millones de libras esterlinas.
+
