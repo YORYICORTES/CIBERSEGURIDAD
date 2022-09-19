@@ -5,5 +5,10 @@
 
 ## 4
 a. El comando 6 de la lista anterior ejecuta una tubería compuesta por dos comandos del sistema operativo Linux en WSL lo que es el comportamiento esperado y también funcionaria en una máquina virtual huésped o en un anfitrión con Linux; el comando 12 es un comando del sistema operativo Windows que no se puede ejecutar en sistemas Linux, pero si se puede ejecutar en WSL, Explique.
+
+###El comando 6:  
+
+
 b. La línea 15 describe una tubería que ejecuta un comando Windows y lo canaliza a la entrada de un comando que no existe en Windows, explique.
+
 c. La línea 16 y 17 describen la situación anterior pero adicionalmente accede al sistema de archivos de Windows para crear un archivo, explique.
