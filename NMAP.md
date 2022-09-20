@@ -14,3 +14,4 @@ una red y sus puertos con el objetivo de obtener información importante sobre l
 Es una aplicación que se utiliza normalmente para realizar auditorías de seguridad y monitoreo de redes.
 
 ![A1](/Almacenamiento interno/DCIM/Carpeta 1/A1.png)
+![Captura 1](https://user-images.githubusercontent.com/101887562/188697933-cc320a74-cf45-4d54-b899-081fd1e23d6d.PNG)
